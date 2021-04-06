@@ -7,4 +7,6 @@ Google Slide: https://docs.google.com/presentation/d/1nmvX2QrVtQFJgoFnL2Cn69_Vd6
 # Important Links
 W3 Schools : https://www.w3schools.com <br/>
 
-My Medium: https://www.meduim.com/@aashishdahal
+My Medium: https://www.meduim.com/@aashishdahal <br/>
+
+Google CDN: https://developers.google.com/speed/libraries#jquery
