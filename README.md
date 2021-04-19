@@ -10,3 +10,6 @@ W3 Schools : https://www.w3schools.com <br/>
 My Medium: https://www.meduim.com/@aashishdahal <br/>
 
 Google CDN: https://developers.google.com/speed/libraries#jquery
+
+# Lecture Videos 
+Google Drive: https://drive.google.com/drive/folders/10fDn-xLfS4b8tj3unImtND6rjs6ornOc?usp=sharing
